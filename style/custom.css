@@ -19,3 +19,8 @@ a.logo {
 /* Custom CSS Settings
 -------------------------*/
 [[setting:customcss]]
+
+/* Usability: Highlight what is currently viewed by the user on the navigation block item list */
+.type_activity.current_branch {
+    background-color: beige;
+}
